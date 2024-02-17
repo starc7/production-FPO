@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2595721a.css",
+    "main.js": "/static/js/main.7575d35f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/coopprin_mutassis.png": "/static/media/coopprin_mutassis.3ddeaa3841bf7b2a6921.png",
+    "static/media/keyfeat_coopval.png": "/static/media/keyfeat_coopval.3a35f1f382e08b71c403.png",
+    "static/media/abhishek.png": "/static/media/abhishek.6227c017368dc313c8cc.png",
+    "static/media/rekha.png": "/static/media/rekha.797421180626a687d89b.png",
+    "static/media/categories.png": "/static/media/categories.9cac11c89f47a3a761f5.png",
+    "static/media/mechanism.png": "/static/media/mechanism.f179767ecaf70af0c5cf.png",
+    "static/media/deepak.png": "/static/media/deepak.4354e911294d899c26d7.png",
+    "static/media/sachin.png": "/static/media/sachin.3523c1dd283ee600d5bf.png",
+    "static/media/roledir.png": "/static/media/roledir.c27d0492961293587b7c.png",
+    "static/media/vishal.png": "/static/media/vishal.5a57f3cbbcb36b00f3e0.png",
+    "static/media/activities.png": "/static/media/activities.3721baa01fce67a856ca.png",
+    "static/media/best_services.png": "/static/media/best_services.1c0394851b5763007d12.png",
+    "static/media/nabard.png": "/static/media/nabard.dc249c6f4bc7ffb254cf.png",
+    "static/media/bggg.jpg": "/static/media/bggg.8d1974ed6eabe215c816.jpg",
+    "index.html": "/index.html",
+    "main.2595721a.css.map": "/static/css/main.2595721a.css.map",
+    "main.7575d35f.js.map": "/static/js/main.7575d35f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2595721a.css",
+    "static/js/main.7575d35f.js"
+  ]
+}
